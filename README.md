@@ -1,7 +1,7 @@
 # Duck-Protocol
 
 ## O que é o Duck Protocol?
-O Duck Protocol é um protocolo didatico criado no [CEDEN](https://www.etefmc.com.br/ceden) para ensinar conceitos de Redes Industriais na [ETE FMC](https://www.etefmc.com.br). Pensado para ser utilizado com a infraetrutura RS458 ser trata de um protocolo serial de 5 bytes.
+O Duck Protocol é um protocolo didatico criado no [CEDEN](https://www.etefmc.com.br/ceden) para ensinar conceitos de Redes Industriais na [ETE FMC](https://www.etefmc.com.br). Pensado para ser utilizado com a infraestrutura RS458, se trata de um protocolo serial de 5 bytes.
 
 ## Nesse repositório você encontrara:
 - [Apostila RS485 utilizando Duck  Protocol](Apostila) (Comece sua leitura por aqui) -> Aqui há uma apostila introdutoria sobre a infraestrutura RS485, como trafegar dados usando o Duck Protocol e como utilizar o [Dashboard](Dashboard).
