@@ -1,0 +1,20 @@
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Dashboard RS458.csproj.AssemblyReference.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Monitor_CAN.Form1.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Dashboard RS458.csproj.GenerateResource.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Release\Monitor CAN.exe.config
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Release\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Release\Monitor CAN.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Monitor_CAN.Properties.Resources.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Dashboard RS458.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Release\Monitor CAN.pdb
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\Dashboard RS458.csproj.AssemblyReference.cache
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\Monitor_CAN.Properties.Resources.resources
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\Dashboard RS458.csproj.GenerateResource.cache
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\Dashboard RS458.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Release\DuckProtocol Dashboard.exe.config
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Release\DuckProtocol Dashboard.exe
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Release\DuckProtocol Dashboard.pdb
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\DuckProtocol_Dashboard.Form1.resources
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\DuckProtocol Dashboard.exe
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Release\DuckProtocol Dashboard.pdb

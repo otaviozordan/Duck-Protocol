@@ -1,0 +1,20 @@
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\Monitor CAN.exe.config
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\Monitor CAN.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.dll
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.WinForms.dll
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.Wpf.dll
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.xml
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.WinForms.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.WinForms.xml
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.Wpf.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\x64\Debug\LiveCharts.Wpf.xml
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.csproj.AssemblyReference.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor_CAN.Form1.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor_CAN.Properties.Resources.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.csproj.GenerateResource.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.csproj.CopyComplete
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\x64\Debug\Monitor CAN.pdb

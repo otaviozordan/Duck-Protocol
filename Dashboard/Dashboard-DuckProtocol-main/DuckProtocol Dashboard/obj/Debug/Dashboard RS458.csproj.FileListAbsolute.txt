@@ -1,0 +1,21 @@
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Dashboard RS458.csproj.AssemblyReference.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Monitor_CAN.Form1.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Monitor_CAN.Properties.Resources.resources
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Dashboard RS458.csproj.GenerateResource.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Dashboard RS458.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Monitor CAN.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Debug\Monitor CAN.exe.config
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Debug\Monitor CAN.exe
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\bin\Debug\Monitor CAN.pdb
+C:\Users\otavi\source\repos\Monitor CAN\Monitor CAN\obj\Debug\Dashboard RS458.csproj.CopyComplete
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Debug\DuckProtocol Dashboard.exe.config
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Debug\DuckProtocol Dashboard.exe
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\bin\Debug\DuckProtocol Dashboard.pdb
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\DuckProtocol_Dashboard.Form1.resources
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\Dashboard RS458.csproj.GenerateResource.cache
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\Dashboard RS458.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\Dashboard RS458.csproj.CopyComplete
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\DuckProtocol Dashboard.exe
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\DuckProtocol Dashboard.pdb
+C:\Users\otavi\source\repos\DuckProtocol Dashboard\DuckProtocol Dashboard\obj\Debug\DuckProtocol_Dashboard.Properties.Resources.resources
